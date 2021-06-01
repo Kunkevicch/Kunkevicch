@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kunkevicch
 - 👀 I’m interested in GameDev
-- 🌱 I’m currently learning Front-End(sorry) and after web I'am planning learn gamedev
+- 🌱 I’m currently learning Back-End on PHP and after web I'am planning learn gamedev
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me ibol387@gmail.com
 
